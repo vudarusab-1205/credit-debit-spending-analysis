@@ -1,0 +1,2 @@
+confidence_level,credit_count,debit_count,credit_mean,debit_mean,mean_difference,standard_error,t_statistic,degrees_freedom,p_value,ci_lower,ci_upper,reject_null
+0.95,1000,1000,185.02596450333326,141.73818828424993,43.28777621908333,5.412245195884277,7.99811809191523,1819.689970995959,2.226180592826143e-15,32.67291017418904,53.90264226397761,True
